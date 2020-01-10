@@ -1,2 +1,1 @@
-This is a simple file1.txt file.
-First file has been successfully modified.
+This is a simple file1.txt file in Master Branch.
