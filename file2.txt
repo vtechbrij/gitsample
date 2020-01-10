@@ -1,2 +1,3 @@
 This is a simple file2.txt file.
 File2 content has been successfully modified.
+File2 has changed right now.
